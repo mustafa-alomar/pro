@@ -91633,7 +91633,7 @@ $0(){var s=t.c
 A.bX(this.a,!1).fg("homecos",s,s)},
 $S:2}
 A.TA.prototype={
-I(a){return A.j6(!1,null,"muyas",A.aN(["/login",new A.aiD(),"/mp",new A.aiE(),"/asia",new A.aiF(),"/api",new A.aiJ(),"new",new A.aiK(),"/pdf",new A.aiL(),"homecos",new A.aiM(),"mur",new A.aiN(),"/tab",new A.aiO(),"muyas",new A.aiP(),"/pdf2",new A.aiQ(),"wel",new A.aiG(),"min",new A.aiH(),"sal",new A.aiI()],t.Q,t.sy))}}
+I(a){return A.j6(!1,null,"wel",A.aN(["/login",new A.aiD(),"/mp",new A.aiE(),"/asia",new A.aiF(),"/api",new A.aiJ(),"new",new A.aiK(),"/pdf",new A.aiL(),"homecos",new A.aiM(),"mur",new A.aiN(),"/tab",new A.aiO(),"muyas",new A.aiP(),"/pdf2",new A.aiQ(),"wel",new A.aiG(),"min",new A.aiH(),"sal",new A.aiI()],t.Q,t.sy))}}
 A.aiD.prototype={
 $1(a){return new A.u_(null)},
 $S:478}
